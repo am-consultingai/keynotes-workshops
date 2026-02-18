@@ -185,5 +185,5 @@ export const IMAGES = {
   instructor: 'https://github.com/israelichamberit-cmd/images/blob/main/avishay_casual_nw.png?raw=true',
   linkedin: 'https://github.com/israelichamberit-cmd/images/blob/main/linkedin.png?raw=true',
   heroBackground: 'https://github.com/israelichamberit-cmd/images/blob/main/AI_Chamber_Stage.jpeg?raw=true',
-  slideOverHeader: 'https://github.com/israelichamberit-cmd/images/blob/main/AI_Chamber_stage_2.JPG?raw=true'
+  slideOverHeader: 'https://github.com/israelichamberit-cmd/images/blob/main/AI_Chamber_stage_3.JPG?raw=true'
 };
